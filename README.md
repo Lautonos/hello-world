@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+My name is Laurette Tonos and I am from the Dominican Republic. I am a senior at the UNiversity of Notre Dame studying Business Analytics. 
